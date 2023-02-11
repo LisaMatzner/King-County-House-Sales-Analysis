@@ -1,4 +1,4 @@
-# King County House Sales - Statistical Analysis
+# King County House Sales - Statistical Analysis (Python)
 
 The King County House Sales Statistical Analysis is a portfolio project created in 2023. 
 

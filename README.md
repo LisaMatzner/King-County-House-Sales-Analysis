@@ -51,3 +51,6 @@ Last accessed on 2023-01-25.
 Last accessed on 2023-02-01.
 
 The data is puplicly available open-source administrative data that comes from the official public records of home sales in the King County area, Washington State. 
+
+## Deliverables
+[Tableau Storyboard](https://public.tableau.com/views/KingCountyHouseSales-StatisticalAnalysis/Story?:language=en-GB&:display_count=n&:origin=viz_share_link)

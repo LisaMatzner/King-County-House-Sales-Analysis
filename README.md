@@ -37,7 +37,6 @@ These are some of the intitial questions from the start of the project:
 - Matplotlib
 - Folium
 - Plotly
-- Quandl
 - Statsmodels API
 - Anaconda
 - Jupyter

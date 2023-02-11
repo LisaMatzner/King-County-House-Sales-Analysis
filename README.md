@@ -2,7 +2,7 @@
 
 The King County House Sales Statistical Analysis is a portfolio project created in 2023. 
 
-The project contains initial data and exploratory analysis of some of the variables in the data set, as well as supervised (linear regression) and unsupervised (kmeans clustering) machine learning techniques in order to derive insights. Part of the project was also a short time seires analysis.
+The project contains initial data and exploratory analysis of some of the variables in the data set, as well as supervised (linear regression) and unsupervised (kmeans clustering) machine learning techniques in order to derive insights. A short time seires analysis was also part of the project.
 
 ## Context
 King County is located in Washington, USA. It is the most populous county in the state and is located in the western part of Washington, surrounding the city of Seattle. 

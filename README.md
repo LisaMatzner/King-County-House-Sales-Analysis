@@ -1,7 +1,5 @@
 # King County House Sales - Statistical Analysis (Python)
 
-The King County House Sales Statistical Analysis is a portfolio project created in 2023. 
-
 The project contains initial data and exploratory analysis of some of the variables in the data set, as well as supervised (linear regression) and unsupervised (kmeans clustering) machine learning techniques in order to derive insights. A short time seires analysis was also part of the project.
 
 ## Context
